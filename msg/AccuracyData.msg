@@ -1,0 +1,5 @@
+std_msgs/Header header
+float64 horizontal_accuracy
+float64 vertical_accuracy
+float64 orientation_yaw_accuracy
+
